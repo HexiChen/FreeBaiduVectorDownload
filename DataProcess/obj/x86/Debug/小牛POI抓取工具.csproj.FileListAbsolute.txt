@@ -1,0 +1,9 @@
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\DataProcess.小牛POI抓取工具.resources
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\小牛POI抓取工具.csproj.GenerateResource.Cache
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\小牛POI抓取工具.csprojResolveAssemblyReference.cache
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\bin\Debug\百度地图矢量数据下载.exe.config
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\bin\Debug\百度地图矢量数据下载.exe
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\bin\Debug\百度地图矢量数据下载.pdb
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\百度地图矢量数据下载.Properties.Resources.resources
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\百度地图矢量数据下载.exe
+D:\BYSJ\POI抓取工具\DataProcess\DataProcess\obj\x86\Debug\百度地图矢量数据下载.pdb
