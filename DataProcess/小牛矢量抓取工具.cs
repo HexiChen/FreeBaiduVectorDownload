@@ -2031,5 +2031,10 @@ namespace DataProcess
             Console.WriteLine("Count:" + test.Count());
             Console.WriteLine("Length:" + test.Length);
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("explorer.exe", "https://github.com/HexiChen/FreeBaiduVectorDownload");
+        }
     }
 }

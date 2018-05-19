@@ -114,6 +114,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.tbox_buildshpName = new System.Windows.Forms.TextBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
+            this.label5 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label25 = new System.Windows.Forms.Label();
@@ -129,8 +131,6 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.label5 = new System.Windows.Forms.Label();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -1071,6 +1071,26 @@
             this.tabPage2.Text = "使用说明";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // linkLabel2
+            // 
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Location = new System.Drawing.Point(361, 450);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(127, 15);
+            this.linkLabel2.TabIndex = 50;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "点我访问开源代码";
+            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(7, 450);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(333, 15);
+            this.label5.TabIndex = 49;
+            this.label5.Text = "8、此软件已开源到GitHub。请勿用于商业用途。";
+            // 
             // label28
             // 
             this.label28.AutoSize = true;
@@ -1099,7 +1119,7 @@
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(208, 15);
             this.label25.TabIndex = 46;
-            this.label25.Text = "软件使用交流QQ群:732173652";
+            this.label25.Text = "软件讨论交流QQ群:732173652";
             // 
             // label24
             // 
@@ -1207,25 +1227,6 @@
             this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "temp_qrcode_share_732173652.png");
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(7, 450);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(333, 15);
-            this.label5.TabIndex = 49;
-            this.label5.Text = "8、此软件已开源到GitHub。请勿用于商业用途。";
-            // 
-            // linkLabel2
-            // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Location = new System.Drawing.Point(361, 450);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(127, 15);
-            this.linkLabel2.TabIndex = 50;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "点我访问开源代码";
             // 
             // 小牛POI抓取工具
             // 
